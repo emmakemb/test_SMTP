@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.org.mailtrap.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-11-27T14:06:30.125Z" hostname="PC-REINSDORF-BG" time="0.012">
+  <properties/>
+  <testcase name="testPlaceholder" classname="org.example.org.mailtrap.AppTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
